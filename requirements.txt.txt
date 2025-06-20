@@ -1,0 +1,9 @@
+# Core Requirements
+GitPython==3.1.40
+rich==13.7.1
+
+# Optional: For syntax highlighting in terminal output
+pygments==2.18.0
+
+# Optional: If you use YAML (for future config support)
+pyyaml==6.0.1
